@@ -1,0 +1,6 @@
+framework module Pods_nav_bar_color_transition {
+  umbrella header "Pods-nav_bar_color_transition-umbrella.h"
+
+  export *
+  module * { export * }
+}

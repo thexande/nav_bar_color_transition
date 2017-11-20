@@ -1,0 +1,6 @@
+framework module Pods_nav_bar_color_transitionUITests {
+  umbrella header "Pods-nav_bar_color_transitionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
